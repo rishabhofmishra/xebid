@@ -1,2 +1,2 @@
 # xebid
-React-based Bidding Platform
+React-based Bidding Platform Project
