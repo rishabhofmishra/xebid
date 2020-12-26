@@ -1,2 +1,2 @@
 # xebid
-React-based Bidding Platform
+React and Redux-based Bidding Platform
