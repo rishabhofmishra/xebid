@@ -1,4 +1,6 @@
 # xebid
-React and Redux-based Bidding Platform
+React-based Bidding Platform
 
-Making some changes for swtiching locally to a branch
+## purpose
+
+The purpose of this repository is to help complete a project I started working during my Summer Internship of 2019 in Xebia
